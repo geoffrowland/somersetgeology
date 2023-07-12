@@ -1,6 +1,6 @@
 # Somerset Geology
 
-Website prototype for the Somerset Geology Group.
+Website prototype for Geological Conservation in Somerset.
 
 https://geoffrowland.github.io/somersetgeology/
 
